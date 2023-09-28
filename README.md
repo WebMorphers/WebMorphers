@@ -25,5 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webmorphers&show_icons=true&locale=en&layout=compact" alt="webmorphers" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webmorphers&show_icons=true&locale=en" alt="webmorphers" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webmorphers&" alt="webmorphers" /></p>
+ 
