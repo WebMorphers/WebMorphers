@@ -19,6 +19,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=WebMorphers&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif]( https://github.com/WebMorphers/WebMorphers/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
